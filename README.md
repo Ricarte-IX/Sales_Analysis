@@ -7,6 +7,7 @@ This analysis provides a comprehensive overview of sales performance across vari
 # The Analysis and Visualization
 ## Overview
 I used PivotTables to summarize the data I need and then visualized them more by using PivotCharts. I also included slicers for filtering the data.
+
 ![](chart_visuals/overview_1.png)
 ![](chart_visuals/overview_2.png)
 

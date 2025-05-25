@@ -6,13 +6,13 @@ This analysis provides a comprehensive overview of sales performance across vari
 
 # The Analysis and Visualization
 ## Overview
-![](assets\overview_1.png)
-![](assets\overview_2.png)
-
 I used PivotTables to summarize the data I need and then visualized them more by using PivotCharts. I also included slicers for filtering the data.
 
+![](chart_visuals/overview_1.png)
+![](chart_visuals/overview_2.png)
+
 ### 1. Quarterly Sales and Orders
-![](assets\quarterly_sales_orders.png)
+![](chart_visuals/quarterly_sales_orders.png)
 #### Insights:
 - Quarter 1 has the highest orders (8271) and sales (₹5.62M).
 
@@ -22,25 +22,37 @@ I used PivotTables to summarize the data I need and then visualized them more by
 - Sales and orders gradually decline each quarter, with Quarter 4 being the lowest (7191 orders, ₹4.9M).
 
 ### 2. Highest-Grossing States
-![](assets\top_5_states.png)
+![](chart_visuals/top_states.png)
 #### Insights:
-- Maharashtra leads in sales with nearly 3 million, followed by Karnataka and Uttar Pradesh.
+- Maharashtra leads in sales with 2.99 million, contributing the highest to the overall total.
 
-- Telangana and Tamil Nadu show similar performance, with sales just above 1.6 million.
+- The combined sales of Karnataka and Uttar Pradesh (approx. 4.75 million) account for over 40% of the 11.13 million grand total.
 
-- There's a clear sales gap between the top state and the rest, highlighting regional sales concentration.
+- Tamil Nadu and Telangana have similar contributions, each around 1.7 million, showing a more moderate performance.
 
 ### 3. Highest-Grossing Cities
-![](assets\top_5_cities.png)
+![](chart_visuals/top_cities.png)
+#### Insights:
+- Bengaluru tops the chart with 1.77 million in sales, contributing the most among all cities.
+
+- Hyderabad and New Delhi follow with 1.37 million and 1.16 million, showing strong urban performance.
+
+- Chennai and Mumbai have similar sales figures (~920K), indicating moderate contributions to the 6.14 million total.
 
 ### 4. Trends in Dress Purchases
-![](assets\trends_dress_orders.png)
+![](chart_visuals/trends_dress_orders.png)
+#### Insights:
+- Women dominate overall orders with ~69% (21,554 out of 31,047 total orders), especially for items like Kurta, Set, and Top.
+
+- The most popular item overall is the Set category (12,391 orders), followed by Kurta (10,446 orders).
+
+- Men's top preferences are Set (5,138 orders) and Western Dress (3,605 orders), indicating distinct buying patterns compared to women.
 
 ### 5. Demographic Breakdown of Sales
-![](assets\sales_age_group_gender.png)
+![](chart_visuals/sales_by_age_group_gender.png)
 
 ### 6. Sales Channel Performance
-![](assets\orders_channel_wise.png)
+![](chart_visuals/total_orders_channelwise.png)
 
 ### 7. Order Status
-![](assets\order_status.png)
+![](chart_visuals/order_status.png)

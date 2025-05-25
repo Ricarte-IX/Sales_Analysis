@@ -6,11 +6,11 @@ This analysis provides a comprehensive overview of sales performance across vari
 
 # The Analysis and Visualization
 ## Overview
-![Sales and Orders by Quarter/Month ](Charts\overview.png)
+![Sales and Orders by Quarter/Month](Charts\overview.png)
 I used PivotTables to summarize the data I need and then visualized them more by using PivotCharts. I also included slicers for filtering the data.
 
 ### 1. Sales and Orders by Quarter/Month 
-![Sales and Orders by Quarter/Month ](Charts\montly_quarterly_sales_and_orders.png)
+![Sales and Orders by Quarter/Month](Charts\montly_quarterly_sales_and_orders.png)
 #### Insights:
 - Quarter 1 has the highest orders (8271) and sales (₹5.62M).
 

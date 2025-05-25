@@ -24,17 +24,29 @@ I used PivotTables to summarize the data I need and then visualized them more by
 ### 2. Highest-Grossing States
 ![](chart_visuals/top_states.png)
 #### Insights:
-- Maharashtra leads in sales with nearly 3 million, followed by Karnataka and Uttar Pradesh.
+- Maharashtra leads in sales with 2.99 million, contributing the highest to the overall total.
 
-- Telangana and Tamil Nadu show similar performance, with sales just above 1.6 million.
+- The combined sales of Karnataka and Uttar Pradesh (approx. 4.75 million) account for over 40% of the 11.13 million grand total.
 
-- There's a clear sales gap between the top state and the rest, highlighting regional sales concentration.
+- Tamil Nadu and Telangana have similar contributions, each around 1.7 million, showing a more moderate performance.
 
 ### 3. Highest-Grossing Cities
 ![](chart_visuals/top_cities.png)
+#### Insights:
+- Bengaluru tops the chart with 1.77 million in sales, contributing the most among all cities.
+
+- Hyderabad and New Delhi follow with 1.37 million and 1.16 million, showing strong urban performance.
+
+- Chennai and Mumbai have similar sales figures (~920K), indicating moderate contributions to the 6.14 million total.
 
 ### 4. Trends in Dress Purchases
 ![](chart_visuals/trends_dress_orders.png)
+#### Insights:
+- Women dominate overall orders with ~69% (21,554 out of 31,047 total orders), especially for items like Kurta, Set, and Top.
+
+- The most popular item overall is the Set category (12,391 orders), followed by Kurta (10,446 orders).
+
+- Men's top preferences are Set (5,138 orders) and Western Dress (3,605 orders), indicating distinct buying patterns compared to women.
 
 ### 5. Demographic Breakdown of Sales
 ![](chart_visuals/sales_by_age_group_gender.png)

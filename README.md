@@ -6,13 +6,13 @@ This analysis provides a comprehensive overview of sales performance across vari
 
 # The Analysis and Visualization
 ## Overview
-![](assets\overview_1.png)
-![](assets\overview_2.png)
+![](chart_visuals/overview_1.png)
+![](chart_visuals/overview_2.png)
 
 I used PivotTables to summarize the data I need and then visualized them more by using PivotCharts. I also included slicers for filtering the data.
 
 ### 1. Quarterly Sales and Orders
-![](assets\quarterly_sales_orders.png)
+![](chart_visuals/quarterly_sales_orders.png)
 #### Insights:
 - Quarter 1 has the highest orders (8271) and sales (₹5.62M).
 
@@ -22,7 +22,7 @@ I used PivotTables to summarize the data I need and then visualized them more by
 - Sales and orders gradually decline each quarter, with Quarter 4 being the lowest (7191 orders, ₹4.9M).
 
 ### 2. Highest-Grossing States
-![](assets\top_5_states.png)
+![](chart_visuals/top_states.png)
 #### Insights:
 - Maharashtra leads in sales with nearly 3 million, followed by Karnataka and Uttar Pradesh.
 
@@ -31,16 +31,16 @@ I used PivotTables to summarize the data I need and then visualized them more by
 - There's a clear sales gap between the top state and the rest, highlighting regional sales concentration.
 
 ### 3. Highest-Grossing Cities
-![](assets\top_5_cities.png)
+![](chart_visuals/top_cities.png)
 
 ### 4. Trends in Dress Purchases
-![](assets\trends_dress_orders.png)
+![](chart_visuals/trends_dress_orders.png)
 
 ### 5. Demographic Breakdown of Sales
-![](assets\sales_age_group_gender.png)
+![](chart_visuals/sales_by_age_group_gender.png)
 
 ### 6. Sales Channel Performance
-![](assets\orders_channel_wise.png)
+![](chart_visuals/total_orders_channelwise.png)
 
 ### 7. Order Status
-![](assets\order_status.png)
+![](chart_visuals/order_status.png)

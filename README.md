@@ -34,7 +34,7 @@ I used PivotTables to summarize the data I need and then visualized them more by
 ![](assets\top_5_cities.png)
 
 ### 4. Trends in Dress Purchases
-![Dress Orders Trends](assets\trends_dress_orders.png)
+![](assets\trends_dress_orders.png)
 
 ### 5. Demographic Breakdown of Sales
 ![](assets\sales_age_group_gender.png)

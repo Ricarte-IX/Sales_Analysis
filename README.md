@@ -50,9 +50,21 @@ I used PivotTables to summarize the data I need and then visualized them more by
 
 ### 5. Demographic Breakdown of Sales
 ![](chart_visuals/sales_by_age_group_gender.png)
+#### Insights:
+- Adults dominate sales, contributing over 82% of the total revenue (~₹17.5M), making them the most valuable customer group.
+
+- Women account for ~64% of total sales (₹13.56M vs. ₹7.61M for men), consistently outspending men across all age groups.
+
+- Teenagers contribute the least (~₹986K), suggesting minimal purchasing power or lower marketing focus.
 
 ### 6. Sales Channel Performance
 ![](chart_visuals/total_orders_channelwise.png)
+#### Insights:
+- Amazon leads with 35.5% of total orders, followed by Myntra (23.4%) and Flipkart (21.6%).
+
+- The top 3 platforms contribute over 80% of the 31,047 total orders.
+
+- Ajio, Meesho, Nalli, and Others together make up the remaining ~19.5%.
 
 ### 7. Order Status
 ![](chart_visuals/order_status.png)
